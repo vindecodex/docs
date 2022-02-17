@@ -22,7 +22,7 @@ npm install @self.id/core
 
 Before using the Self.ID Core APIs, make sure you have [configured your setup](configuration.md) including your node and data models.
 
-#### Connect to a Ceramic ndoe
+#### Connect to a Ceramic node
 
 The Self.ID `Core` instance generates a Ceramic client that needs to connect to a Ceramic node:
 
